@@ -1,0 +1,88 @@
+// theme.scss
+
+// Primary Color Shades
+$primary-100: #D6E1F6;
+$primary-200: #ADC3EC;
+$primary-300: #84A5E2;
+$primary-400: #5B87D8;
+$primary-500: #4276CF;
+$primary-600: #365EA4;
+$primary-700: #294579;
+$primary-800: #1D2D4F;
+$primary-900: #101625;
+
+// Success Colors
+$success-100: #D6F6E4;
+$success-200: #ADF1C9;
+$success-300: #84EBAE;
+$success-400: #5BE593;
+$success-500: #32E078;
+$success-600: #29B860;
+$success-700: #208F48;
+$success-800: #166630;
+$success-900: #0D3D18;
+
+// Warning Colors
+$warning-100: #FFF6D6;
+$warning-200: #FFEDAD;
+$warning-300: #FFE384;
+$warning-400: #FFDA5B;
+$warning-500: #FFD132;
+$warning-600: #CCAA29;
+$warning-700: #998320;
+$warning-800: #665C16;
+$warning-900: #33250D;
+
+// Error Colors
+$error-100: #F6D6D6;
+$error-200: #ECADAD;
+$error-300: #E28484;
+$error-400: #D85B5B;
+$error-500: #CF3232;
+$error-600: #A42A2A;
+$error-700: #792122;
+$error-800: #4F1919;
+$error-900: #251010;
+
+// Info Colors
+$info-100: #D6E6F6;
+$info-200: #ADCDEB;
+$info-300: #84B3E0;
+$info-400: #5B9AD5;
+$info-500: #3280CA;
+$info-600: #2968A3;
+$info-700: #204F7B;
+$info-800: #163754;
+$info-900: #0D1E2D;
+
+// Neutral Colors
+$neutral-100: #f0f1f1;
+$neutral-200: #d3d4d6;
+$neutral-300: #b6b8ba;
+$neutral-400: #999c9e;
+$neutral-500: #7c7f83;
+$neutral-600: #616366;
+$neutral-700: #454749;
+$neutral-800: #292a2c;
+$neutral-900: #272829;
+
+// Transparent Black
+$transparent-black-100: rgba($neutral-900, 0.1);
+$transparent-black-200: rgba($neutral-900, 0.2);
+$transparent-black-300: rgba($neutral-900, 0.3);
+$transparent-black-400: rgba($neutral-900, 0.4);
+$transparent-black-500: rgba($neutral-900, 0.5);
+$transparent-black-600: rgba($neutral-900, 0.6);
+$transparent-black-700: rgba($neutral-900, 0.7);
+$transparent-black-800: rgba($neutral-900, 0.8);
+$transparent-black-900: rgba($neutral-900, 0.9);
+
+// Font Sizes
+$header1: 56.8px;
+$header2: 42.6px;
+$header3: 32px;
+$general: 24px;
+$body: 18px;
+
+// Border Radius
+$border-radius: 5px;
