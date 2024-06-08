@@ -1,59 +1,59 @@
 // theme.scss
 
 // Primary Color Shades
-$primary-100: #D6E1F6;
-$primary-200: #ADC3EC;
-$primary-300: #84A5E2;
-$primary-400: #5B87D8;
-$primary-500: #4276CF;
-$primary-600: #365EA4;
+$primary-100: #d6e1f6;
+$primary-200: #adc3ec;
+$primary-300: #84a5e2;
+$primary-400: #5b87d8;
+$primary-500: #4276cf;
+$primary-600: #365ea4;
 $primary-700: #294579;
-$primary-800: #1D2D4F;
+$primary-800: #1d2d4f;
 $primary-900: #101625;
 
 // Success Colors
-$success-100: #D6F6E4;
-$success-200: #ADF1C9;
-$success-300: #84EBAE;
-$success-400: #5BE593;
-$success-500: #32E078;
-$success-600: #29B860;
-$success-700: #208F48;
+$success-100: #d6f6e4;
+$success-200: #adf1c9;
+$success-300: #84ebae;
+$success-400: #5be593;
+$success-500: #32e078;
+$success-600: #29b860;
+$success-700: #208f48;
 $success-800: #166630;
-$success-900: #0D3D18;
+$success-900: #0d3d18;
 
 // Warning Colors
-$warning-100: #FFF6D6;
-$warning-200: #FFEDAD;
-$warning-300: #FFE384;
-$warning-400: #FFDA5B;
-$warning-500: #FFD132;
-$warning-600: #CCAA29;
+$warning-100: #fff6d6;
+$warning-200: #ffedad;
+$warning-300: #ffe384;
+$warning-400: #ffda5b;
+$warning-500: #ffd132;
+$warning-600: #ccaa29;
 $warning-700: #998320;
-$warning-800: #665C16;
-$warning-900: #33250D;
+$warning-800: #665c16;
+$warning-900: #33250d;
 
 // Error Colors
-$error-100: #F6D6D6;
-$error-200: #ECADAD;
-$error-300: #E28484;
-$error-400: #D85B5B;
-$error-500: #CF3232;
-$error-600: #A42A2A;
+$error-100: #f6d6d6;
+$error-200: #ecadad;
+$error-300: #e28484;
+$error-400: #d85b5b;
+$error-500: #cf3232;
+$error-600: #a42a2a;
 $error-700: #792122;
-$error-800: #4F1919;
+$error-800: #4f1919;
 $error-900: #251010;
 
 // Info Colors
-$info-100: #D6E6F6;
-$info-200: #ADCDEB;
-$info-300: #84B3E0;
-$info-400: #5B9AD5;
-$info-500: #3280CA;
-$info-600: #2968A3;
-$info-700: #204F7B;
+$info-100: #d6e6f6;
+$info-200: #adcdeb;
+$info-300: #84b3e0;
+$info-400: #5b9ad5;
+$info-500: #3280ca;
+$info-600: #2968a3;
+$info-700: #204f7b;
 $info-800: #163754;
-$info-900: #0D1E2D;
+$info-900: #0d1e2d;
 
 // Neutral Colors
 $neutral-100: #f0f1f1;
@@ -78,11 +78,15 @@ $transparent-black-800: rgba($neutral-900, 0.8);
 $transparent-black-900: rgba($neutral-900, 0.9);
 
 // Font Sizes
-$header1: 56.8px;
-$header2: 42.6px;
-$header3: 32px;
-$general: 24px;
-$body: 18px;
+$header1: 53.75px;
+$header2: 44.79px;
+$header3: 37.32px;
+$header4: 31.1px;
+$header5: 25.92px;
+$header6: 21.6px;
+$paragraph: 18px;
+$small: 15px;
+$extra-small: 12.5px;
 
 // Border Radius
 $border-radius: 5px;
